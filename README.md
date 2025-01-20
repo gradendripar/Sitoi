@@ -1,2 +1,1 @@
-<img alt="🦑" align="left" width="400px" src="https://github.com/Sitoi/Sitoi/blob/master/metrics.svg">
-<img alt="🦑" align="left" width="400px" src="https://github.com/Sitoi/Sitoi/blob/master/metrics.additional.svg">
+[![Stats](https://raw.githubusercontent.com/Sitoi/Sitoi/master/github-metrics.svg)](https://github.com/lowlighter/metrics)
